@@ -41,6 +41,6 @@
         "mongodb": "3.2.7",
         "nodemailer": "6.2.1",
         "srs.js": "0.1.0",
-        "wildduck": "1.21.0"
+        "wildduck": "1.31.0"
     }
 }
